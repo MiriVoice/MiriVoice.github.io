@@ -1,0 +1,1 @@
+const t="미리보이스 : 모두를 위한 개방형 TTS 플랫폼",e="미리보이스는 모두를 위한 무료, 그리고 오픈소스 TTS 엔진입니다.{br}현재 미리보이스 공식 홈페이지는 제작중이니, 나중에 다시 찾아와 주시면 감사하겠습니다.",n="클릭해 미리보이스 공식 Github로 가기",o={title:t,explanation:e,redirect:n};export{o as default,e as explanation,n as redirect,t as title};

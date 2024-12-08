@@ -1,0 +1,60 @@
+{
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "index.html": [],
+  "node_modules/@intlify/core-base/dist/core-base.mjs": [],
+  "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
+  "node_modules/@intlify/shared/dist/shared.mjs": [],
+  "node_modules/@unhead/dom/dist/index.mjs": [],
+  "node_modules/@unhead/shared/dist/index.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.8fc199ce.mjs": [
+    "/assets/index-FHuJfJG9.js",
+    "/assets/MiriVoice-BHd_hr0p.png"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.f49591ad.mjs": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/hookable/dist/index.mjs": [],
+  "node_modules/unhead/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.579feabb.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/vue-i18n/dist/vue-i18n.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "src/App.vue": [],
+  "src/assets/MiriVoice.png": [
+    "/assets/index-FHuJfJG9.js",
+    "/assets/MiriVoice-BHd_hr0p.png"
+  ],
+  "src/components/DetailHelmet.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index-FHuJfJG9.js",
+    "/assets/MiriVoice-BHd_hr0p.png"
+  ],
+  "src/global.css": [],
+  "src/i18n.ts": [],
+  "src/locales/en/common.json": [
+    "/assets/common-BcRXt23P.js"
+  ],
+  "src/locales/en/test.json": [
+    "/assets/test-Dv7LtFcd.js"
+  ],
+  "src/locales/ko/common.json": [
+    "/assets/common-D72iJy4x.js"
+  ],
+  "src/locales/ko/test.json": [
+    "/assets/test-Bd2Sa-aG.js"
+  ],
+  "src/main.ts": [],
+  "src/router.ts": [],
+  "src/views/index.vue": [
+    "/assets/index-FHuJfJG9.js",
+    "/assets/MiriVoice-BHd_hr0p.png"
+  ],
+  "src/views/index.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/index-FHuJfJG9.js",
+    "/assets/MiriVoice-BHd_hr0p.png"
+  ]
+}

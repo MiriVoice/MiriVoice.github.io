@@ -1,0 +1,1 @@
+const e="MiriVoice: An Open TTS Platform for Everyone",i="MiriVoice is a free and open-source TTS engine for everyone.{br}The official MiriVoice website is currently under construction. Please check back later. Thank you!",o="Click to visit the official MiriVoice GitHub",t={title:e,explanation:i,redirect:o};export{t as default,i as explanation,o as redirect,e as title};
