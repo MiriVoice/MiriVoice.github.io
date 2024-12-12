@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){var t=e("title","Free, Open-Source TTS Engine Application for all."),s=e("desc_1","Simple, User-centered UI/UX."),r=e("desc_2","Cross-Platform."),c=e("desc_3","Versatile design, to support worldwide Languages & TTS Models.");e("default",{title:t,desc_1:s,desc_2:r,desc_3:c})}}}));

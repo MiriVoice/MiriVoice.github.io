@@ -1,0 +1,30 @@
+[
+  {
+    "isDefaultVoicer": true,
+    "color": "#7BFF8F",
+    "name": {
+      "en": "Miri",
+      "ko": "미리"
+    },
+    "tag": {
+      "en": ["Cheerful", "KO", "VITS2"],
+      "ko": ["활기찬", "한국어", "VITS2"]
+    },
+    "style": ["Bright", "Normal", "Sad", "Angry"],
+    "downloadLink": ""
+  },
+  {
+    "isDefaultVoicer": false,
+    "color": "#8d8cf5",
+    "name": {
+      "en": "2xbin",
+      "ko": "빈빈"
+    },
+    "tag": {
+      "en": ["Soft", "KO", "VITS2"],
+      "ko": ["부드러운", "한국어", "VITS2"]
+    },
+    "style": ["normal"],
+    "downloadLink": "https://2xxbin.github.io/voicebank/2xbin"
+  }
+]

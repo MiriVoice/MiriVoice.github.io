@@ -1,0 +1,1 @@
+const o={defaultvoicer:"Default Voicer",download:"Download"},a={sample:"Sample",style:"Style"},e={teamsofuse:"[{name}] Terms of use",gotodownload:"Go To Download"},t={download_btn:o,character_text:a,modal:e};export{a as character_text,t as default,o as download_btn,e as modal};
