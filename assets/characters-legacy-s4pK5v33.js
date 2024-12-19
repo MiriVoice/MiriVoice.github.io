@@ -1,0 +1,1 @@
+System.register([],(function(e,o){"use strict";return{execute:function(){var o=e("download_btn",{defaultvoicer:"Default Voicer",download:"Download",not_release:"Not Release..."}),t=e("character_text",{sample:"Sample",style:"Style"}),a=e("modal",{teamsofuse:"[{name}] Terms of use",gotodownload:"Go To Download"});e("default",{download_btn:o,character_text:t,modal:a})}}}));

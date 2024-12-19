@@ -1,0 +1,1 @@
+System.register([],(function(e,r){"use strict";return{execute:function(){var r=e("header",{characters:"Characters",faq:"Q&A",makevoicer:"Make Voicer",donate:"Donate",download_btn:"Download"}),t=e("footer",{copyright:"© 2xxbin & EX3. 2024. All rights reserved."});e("default",{header:r,footer:t})}}}));

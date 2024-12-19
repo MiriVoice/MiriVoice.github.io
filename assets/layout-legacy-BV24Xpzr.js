@@ -1,0 +1,1 @@
+System.register([],(function(e,r){"use strict";return{execute:function(){var r=e("header",{characters:"캐릭터",faq:"Q&A",makevoicer:"성우 만들기",donate:"개발 지원",download_btn:"다운로드"}),t=e("footer",{copyright:"© 2xxbin & EX3. 2024. All rights reserved."});e("default",{header:r,footer:t})}}}));

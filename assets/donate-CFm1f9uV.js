@@ -1,0 +1,1 @@
+const t="미리보이스 후원하기",e="UTAU_comet",o="TTS 모델 제작엔 때로 돈이 많이 들어가곤 해요 💸...{br}더 많은 무료 파인튜닝 모델 제작, 더 많은 모델 지원을 위해 미리보이스를 후원해 주세요!",c={title:t,image_credit:e,description:o};export{c as default,o as description,e as image_credit,t as title};

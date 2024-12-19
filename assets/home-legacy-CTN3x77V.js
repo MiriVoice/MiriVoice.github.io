@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){var t=e("title","Free, Open-Source TTS Engine Application for all."),c=e("desc_1","간단하고 이용자 친화적인 UI/UX."),s=e("desc_2","크로스 플랫폼 지원."),i=e("desc_3","전 세계의 언어와 모델을 담기 위한 다용도적 설계.");e("default",{title:t,desc_1:c,desc_2:s,desc_3:i})}}}));
