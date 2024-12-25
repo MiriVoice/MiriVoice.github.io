@@ -1,0 +1,1 @@
+const e="Free, Open-Source TTS Engine Application for all.",c="간단하고 이용자 친화적인 UI/UX.",o="크로스 플랫폼 지원.",t="전 세계의 언어와 모델을 담기 위한 다용도적 설계.",n={title:e,desc_1:c,desc_2:o,desc_3:t};export{n as default,c as desc_1,o as desc_2,t as desc_3,e as title};

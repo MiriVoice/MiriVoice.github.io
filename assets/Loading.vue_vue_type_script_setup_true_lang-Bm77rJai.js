@@ -1,0 +1,1 @@
+import{d as o,c as s,e as t,f as a,h as n,b as r}from"./app-6WmMbC4U.js";const c="/assets/loading-BOM07Pko.png",i={key:0,class:"w-full h-full flex justify-center items-center"},l=["src"],_=o({__name:"Loading",props:{isLoading:{type:Boolean,required:!0}},setup(e){return(d,m)=>e.isLoading?(r(),s("div",i,[t("img",{alt:"modal loading..",src:a(c)},null,8,l)])):n("",!0)}});export{_};

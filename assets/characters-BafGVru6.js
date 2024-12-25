@@ -1,0 +1,1 @@
+const o={defaultvoicer:"기본 성우",download:"다운로드",not_release:"준비중..."},t={sample:"샘플",style:"스타일"},a={teamsofuse:"[{name}] 이용 규약",gotodownload:"다운로드 페이지로"},e={download_btn:o,character_text:t,modal:a};export{t as character_text,e as default,o as download_btn,a as modal};

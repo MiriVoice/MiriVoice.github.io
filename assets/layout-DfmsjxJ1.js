@@ -1,0 +1,1 @@
+const e={characters:"캐릭터",faq:"Q&A",makevoicer:"성우 만들기",donate:"개발 지원",download_btn:"다운로드"},o={copyright:"© 2xxbin & EX3. 2024. All rights reserved."},t={header:e,footer:o};export{t as default,o as footer,e as header};

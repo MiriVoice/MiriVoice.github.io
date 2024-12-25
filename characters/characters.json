@@ -1,0 +1,92 @@
+[
+  {
+    "isDefaultVoicer": true,
+    "isRelease": true,
+    "color": "#7BFF8F",
+    "name": {
+      "en": "Miri",
+      "ko": "미리"
+    },
+    "tag": {
+      "en": ["KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["Bright", "Normal", "Sad", "Angry"],
+    "downloadLink": ""
+  },
+  {
+    "isDefaultVoicer": false,
+    "isRelease": true,
+    "color": "#8d8cf5",
+    "name": {
+      "en": "2xbin",
+      "ko": "빈빈"
+    },
+    "tag": {
+      "en": ["Soft", "KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["normal"],
+    "downloadLink": "https://2xxbin.github.io/voicebank/2xbin"
+  },
+  {
+    "isDefaultVoicer": false,
+    "isRelease": true,
+    "color": "#b6cae9",
+    "name": {
+      "en": "Mina",
+      "ko": "미나"
+    },
+    "tag": {
+      "en": ["KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["Normal", "Bright", "Dark"],
+    "downloadLink": "https://drive.google.com/file/d/1xkpucTG8BH8JAis481ThVWohYj9RGSbt/view?usp=sharing"
+  },
+  {
+    "isDefaultVoicer": false,
+    "isRelease": true,
+    "color": "#E16350",
+    "name": {
+      "en": "FAsio",
+      "ko": "파시오"
+    },
+    "tag": {
+      "en": ["KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["Default", "Bright", "Moist", "Boiling"],
+    "downloadLink": "https://asiosnest.blogspot.com/2024/12/fasio-mirivoice.html"
+  },
+  {
+    "isDefaultVoicer": false,
+    "isRelease": true,
+    "color": "#b6cae9",
+    "name": {
+      "en": "Aqua Planet",
+      "ko": "아쿠아 플래닛"
+    },
+    "tag": {
+      "en": ["KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["Normal"],
+    "downloadLink": "https://cometutau.wixsite.com/utau-aqua-planet/download"
+  },
+  {
+    "isDefaultVoicer": false,
+    "isRelease": false,
+    "color": "#7af0e2",
+    "name": {
+      "en": "Rivo",
+      "ko": "리보"
+    },
+    "tag": {
+      "en": ["KO", "VITS2"],
+      "ko": ["한국어", "VITS2"]
+    },
+    "style": ["Bright", "Normal", "Sad", "Angry"],
+    "downloadLink": ""
+  }
+]

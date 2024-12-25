@@ -1,0 +1,1 @@
+const e="Free, Open-Source TTS Engine Application for all.",s="Simple, User-centered UI/UX.",o="Cross-Platform.",t="Versatile design, to support worldwide Languages & TTS Models.",n={title:e,desc_1:s,desc_2:o,desc_3:t};export{n as default,s as desc_1,o as desc_2,t as desc_3,e as title};

@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){var t=e("download_btn",{defaultvoicer:"기본 성우",download:"다운로드",not_release:"준비중..."}),a=e("character_text",{sample:"샘플",style:"스타일"}),o=e("modal",{teamsofuse:"[{name}] 이용 규약",gotodownload:"다운로드 페이지로"});e("default",{download_btn:t,character_text:a,modal:o})}}}));

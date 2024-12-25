@@ -1,0 +1,6 @@
+[
+  {
+    "question": "MiriVoice crashes in Windows OS when playback.",
+    "answer": "Please make sure that your MiriVoice's installed path is not containing non-ASCII letters."
+  }
+]
